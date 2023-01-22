@@ -1,6 +1,10 @@
 # printer-editor
 打印编辑器
 
+## 打印编辑器绘制展示2
+![打印编辑器展示2](http://printer.luhui.net/printer.jpg)
+
+
 > 专有软件，未获得授权的情况下，禁止对该代码进行反编译、分发等行为，否则将承担相应的法律后果。
 
 该仓库存档不再更新，请查看功能更丰富的通用设计器：https://github.com/xinglie/report-designer 
